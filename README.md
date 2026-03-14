@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TRILOK-SAINI
 - 👀 I’m interested in FULL STACK DEVELOPER 
-- 🌱 I’m currently learning . 
-- 💞️ I’m looking for Internship ,  in fullstack 
+- 🌱 I’m currently Working at Design U Crave . 
 - 📫 How to reach me 📲 7878794208
 
 <!---
